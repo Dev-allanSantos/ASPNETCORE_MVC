@@ -9,7 +9,7 @@ A Aplicação permite que o usuário cadastre filmes em uma tabela de filmes , q
 
 O projeto foi contruído com base no tutorial disponível no site da Microsoft ---> [Tutorial](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
 
-#### Confira os prins de tela da aplicação : [print](./Prints.docx)
+#### Confira os prins de tela da aplicação : [print](https://allan-gh.github.io/ASPNETCORE_MVC/Prints.docx)
 
 
 
