@@ -3,9 +3,9 @@ projeto elaborado a partir do padrão arquitetural MVC. A aplicação web consis
 
 <p align="center">
  <a href="#Objetivo">Objetivo</a> •
- <a href="#Tecnologias e ferramentas usadas">Tecnologias</a> • 
- <a href="#Extensões no visual studio code">Extensões</a> • 
- <a href="#Adicionar pacotes Nuget">Pacotes Nuget</a> • 
+ <a href="#Tecnologias">Tecnologias</a> • 
+ <a href="#Extensões">Extensões</a> • 
+ <a href="#Pacotes">Pacotes Nuget</a> • 
  
 </p>
 
@@ -25,14 +25,14 @@ O projeto foi contruído com base no tutorial disponível no site da Microsoft -
 
  Confira os prins de tela da aplicação : [print](https://allan-gh.github.io/ASPNETCORE_MVC/Prints.docx)
 
-## Tecnologias e ferramentas usadas
+## Tecnologias
 
 - Visual Studio Code (1.53.1)
 - SDK 5.0.103 [Download sdk](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-5.0.200-windows-x64-installer)
 - Asp.Net Core
 
-### Extensões no visual studio code
-
+### Extensões
+Instale essas extensões no visual studio code
 - c# distribuidora microsoft 
 Name: C#
 Id: ms-dotnettools.csharp
@@ -49,7 +49,7 @@ Version: 1.3.1
 Publisher: jchannon
 VS Marketplace Link: [link](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions)
 
-### Adicionar pacotes Nuget
+## Pacotes 
 Se você utilizar o visual studio code para realizar este projeto, então precisará instalar os pacotes Nuget.
 
 Abra o Vscode -> Abra o terminal no vs code -> insira os comando abaixo (um por vez) :
