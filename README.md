@@ -3,9 +3,9 @@ projeto elaborado a partir do padrão arquitetural MVC. A aplicação web consis
 
 <p align="center">
  <a href="#Objetivo">Objetivo</a> •
- <a href="##Tecnologias e ferramentas usadas">Tecnologias</a> • 
- <a href="##Extensões no visual studio code">Extensões</a> • 
- <a href="##Adicionar pacotes Nuget">Pacotes Nuget</a> • 
+ <a href="#Tecnologias e ferramentas usadas">Tecnologias</a> • 
+ <a href="#Extensões no visual studio code">Extensões</a> • 
+ <a href="#Adicionar pacotes Nuget">Pacotes Nuget</a> • 
  
 </p>
 
