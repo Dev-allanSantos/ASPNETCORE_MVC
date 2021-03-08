@@ -1,6 +1,14 @@
 # ASPNETCORE_MVC
 projeto elaborado a partir do padrão arquitetural MVC. A aplicação web consiste no cadastro e consulta de filmes , possuindo assim persistência de dados
 
+<p align="center">
+ <a href="#Objetivo">Objetivo</a> •
+ <a href="#Tecnologias e ferramentas usadas">Tecnologias</a> • 
+ <a href="#Extensões no visual studio code">Extensões</a> • 
+ <a href="Adicionar pacotes Nuget">Pacotes Nuget</a> • 
+ 
+</p>
+
 
 ## Objetivo
 O objetivo do projeto é criar uma aplicação web baseada no padrão arquitetural Mvc (Model-View-Controller). O projeto cumpre o padrão na medida em que foram adicionadas os componentes em cada camada .
