@@ -15,7 +15,7 @@ A Aplicação permite que o usuário cadastre filmes em uma tabela de filmes , q
 
 O projeto foi contruído com base no tutorial disponível no site da Microsoft ---> [Tutorial](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
 
-#### Confira os prins de tela da aplicação : [print](https://allan-gh.github.io/ASPNETCORE_MVC/Prints.docx)
+ Confira os prins de tela da aplicação : [print](https://allan-gh.github.io/ASPNETCORE_MVC/Prints.docx)
 
 ## Tecnologias e ferramentas usadas
 
@@ -40,6 +40,20 @@ Description: C# IDE Extensions for VSCode
 Version: 1.3.1
 Publisher: jchannon
 VS Marketplace Link: [link](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions)
+
+### Adicionar pacotes Nuget
+Se você utilizar o visual studio code para realizar este projeto, então precisará instalar os pacotes Nuget.
+
+Abra o Vscode -> Abra o terminal no vs code -> insira os comando abaixo (um por vez) :
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet add package Microsoft.EntityFrameworkCore.SQLite
+dotnet add package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.Extensions.Logging.Debug
+
 
 
 
